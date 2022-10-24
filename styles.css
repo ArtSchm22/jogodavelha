@@ -35,7 +35,7 @@ h1 {
     grid-template: repeat(3, 1fr)/ repeat(3, 1fr);
     background-color: #AEBDCA;
     margin: 0 auto;
-    margin-top: 3%;
+    margin-top: 2%;
     border: solid 3px #537394;
 }
 
@@ -51,7 +51,7 @@ h1 {
     justify-content: center;
     align-items: center;
     display: flex;
-    margin-top: 3%;
+    margin-top: 2%;
     font-size: 25px;
     color: #fff;
     font-family: Poppins;
@@ -62,3 +62,13 @@ h1 {
     justify-content: center;
     align-items: center;
 }
+
+#refresh, button{
+    padding: 10px 24px;
+    cursor: pointer;
+}
+
+button :hover{
+    background-color: #47617a;
+}
+
