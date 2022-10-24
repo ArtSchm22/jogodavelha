@@ -56,3 +56,9 @@ h1 {
     color: #fff;
     font-family: Poppins;
 }
+
+#refresh{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

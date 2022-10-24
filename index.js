@@ -69,4 +69,8 @@ function jogoXeO(position) {
     }, 50)
 }
 
+function refreshGame() {
+    document.location.reload()
+}
+
 
